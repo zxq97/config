@@ -1,0 +1,63 @@
+commentbff:
+  name: commentbff
+  request_threshold: 5
+  max_requests: 100
+  timeout: 3000
+  sleep_window: 10000
+  error_percent: 20
+
+commentsvc:
+  name: commentsvc
+  request_threshold: 5
+  max_requests: 100
+  timeout: 3000
+  sleep_window: 10000
+  error_percent: 20
+
+socialbff:
+  name: socialbff
+  request_threshold: 5
+  max_requests: 100
+  timeout: 3000
+  sleep_window: 10000
+  error_percent: 20
+
+socialsvc:
+  name: socialsvc
+  request_threshold: 5
+  max_requests: 100
+  timeout: 3000
+  sleep_window: 10000
+  error_percent: 20
+
+accountbff:
+  name: accountbff
+  request_threshold: 5
+  max_requests: 100
+  timeout: 3000
+  sleep_window: 10000
+  error_percent: 20
+
+accountsvc:
+  name: accountsvc
+  request_threshold: 5
+  max_requests: 100
+  timeout: 3000
+  sleep_window: 10000
+  error_percent: 20
+
+opusbff:
+  name: opusbff
+  request_threshold: 5
+  max_requests: 100
+  timeout: 3000
+  sleep_window: 10000
+  error_percent: 20
+
+opussvc:
+  name: opussvc
+  request_threshold: 5
+  max_requests: 100
+  timeout: 3000
+  sleep_window: 10000
+  error_percent: 20

@@ -1,0 +1,27 @@
+opus:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  db: zzlove_opus
+  password: GUOan1992
+
+comment:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  db: zzlove_comment
+  password: GUOan1992
+
+social:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  db: zzlove_social
+  password: GUOan1992
+
+account:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  db: zzlove
+  password: GUOan1992

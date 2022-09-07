@@ -1,0 +1,27 @@
+opus:
+  host: 192.168.0.121
+  port: 3306
+  user: root
+  db: zzlove_opus
+  password: 7yAZCOMkt23nnIke
+
+comment:
+  host: 192.168.0.121
+  port: 3306
+  user: root
+  db: zzlove_comment
+  password: 7yAZCOMkt23nnIke
+
+social:
+  host: 192.168.0.121
+  port: 3306
+  user: root
+  db: zzlove_social
+  password: 7yAZCOMkt23nnIke
+
+account:
+  host: 192.168.0.121
+  port: 3306
+  user: root
+  db: zzlove
+  password: 7yAZCOMkt23nnIke
