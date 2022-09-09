@@ -14,16 +14,16 @@ commentsvc:
   sleep_window: 10000
   error_percent: 20
 
-socialbff:
-  name: socialbff
+relationbff:
+  name: relationbff
   request_threshold: 5
   max_requests: 100
   timeout: 3000
   sleep_window: 10000
   error_percent: 20
 
-socialsvc:
-  name: socialsvc
+relationsvc:
+  name: relationsvc
   request_threshold: 5
   max_requests: 100
   timeout: 3000

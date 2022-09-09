@@ -12,11 +12,11 @@ comment:
   db: zzlove_comment
   password: GUOan1992
 
-social:
+relation:
   host: 127.0.0.1
   port: 3306
   user: root
-  db: zzlove_social
+  db: zzlove_relation
   password: GUOan1992
 
 account:
