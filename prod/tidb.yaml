@@ -1,0 +1,23 @@
+pd_servers:
+  - host: 192.168.0.121
+    name: pd-121
+  - host: 192.168.0.122
+    name: pd-122
+  - host: 192.168.0.123
+    name: pd-123
+
+tidb_servers:
+  - host: 192.168.0.121
+  - host: 192.168.0.122
+  - host: 192.168.0.123
+
+tikv_servers:
+  - host: 192.168.0.124
+  - host: 192.168.0.125
+  - host: 192.168.0.126
+
+grafana_servers:
+  - host: 192.168.0.124
+
+monitoring_servers:
+  - host: 192.168.0.125
