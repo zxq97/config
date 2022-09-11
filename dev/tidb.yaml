@@ -1,0 +1,18 @@
+global:
+  user: "tidb"
+  ssh_port: 22
+  deploy_dir: "/tidb-deploy"
+  data_dir: "/tidb-data"
+server_configs: {}
+pd_servers:
+  - host: 127.0.0.1
+tidb_servers:
+  - host: 127.0.0.1
+tikv_servers:
+  - host: 127.0.0.1
+monitoring_servers:
+  - host: 127.0.0.1
+grafana_servers:
+  - host: 127.0.0.1
+alertmanager_servers:
+  - host: 127.0.0.1
